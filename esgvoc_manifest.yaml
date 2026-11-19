@@ -1,6 +1,6 @@
 schema_version: '1'
 project:
-  id: FUTURA
+  id: futura
   name: FUTURA Controlled Vocabulary
 cv_version: 2.5.8
 universe_version: 3.4.9
