@@ -7,5 +7,6 @@ universe_version: 3.4.9
 esgvoc:
   min_version: 7.1.0
 release_notes: |
-  - model: references added for all EMD sources
-  - universe updated to 3.1.1 (reference terms)
+  - activity: 1 modified
+  - experiment: 69 added, 1 modified
+  - institution: 1 added
